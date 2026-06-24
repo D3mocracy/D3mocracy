@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-I'm **Lidor**, a 23-year-old full-stack developer from 🇮🇱 Israel. I build cool things using **TypeScript**, **JavaScript**, and **Java** — and occasionally dive into product ideas that (hopefully) make life a little easier or more interesting.
+I'm **Lidor**, a 24 years old fullstack developer from 🇮🇱 Israel. I build cool things using **TypeScript**, **JavaScript**, and **Java** — and occasionally dive into product ideas that (hopefully) make life a little easier or more interesting.
 
 ---
 
