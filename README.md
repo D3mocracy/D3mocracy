@@ -36,7 +36,7 @@ From AI conversations to document creation and project management through Hook W
 
 ---
 
-### Heimdall
+### [Heimdall]([https://hookcode.io](https://heimdall.co.il/))
 > *Security infrastructure for AI agents.*
 
 A security solution designed to allow AI agents to interact with external services without exposing sensitive credentials.
